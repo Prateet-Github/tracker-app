@@ -100,7 +100,8 @@ function App() {
 
       <footer className="w-full bg-indigo-600 p-3 text-center text-white">
         <p className="text-sm">
-          Powered by React + Leaflet + Tailwind + Socket.IO
+          &copy; 2025 All rights reserved.
+          Made by Prateet
         </p>
       </footer>
     </div>
